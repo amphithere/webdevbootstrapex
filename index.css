@@ -2,7 +2,7 @@ body{
 	background-image: url('https://static.pexels.com/photos/35189/landscape-rocks-ocean-nature.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
-	height: 100vh;
+	height: 100%;
 	width: auto;
 }
 
