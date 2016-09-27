@@ -2,15 +2,14 @@ body{
 	background-image: url('https://static.pexels.com/photos/35189/landscape-rocks-ocean-nature.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
-	height: 100%;
+	height: 100vh;
 	width: auto;
 }
 
 #intro h1 {
-	line-height: 100vh;
+	margin-top: 35vh;
 	text-align: center;
 	color: white;
-	margin: 0 !important;
 }
 
 .navbar-default{
